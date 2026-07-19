@@ -9,20 +9,29 @@ This project focuses on preparing a COVID-19 dataset for machine learning by app
 The project is implemented using Python, Pandas, NumPy, and Scikit-learn, demonstrating the complete preprocessing workflow required before building predictive machine learning models.
 
 ## Key Features
-*Imported and analyzed the COVID-19 dataset.
+Imported and analyzed the COVID-19 dataset.
 
-*Handled missing values using SimpleImputer.
+Handled missing values using SimpleImputer.
+
 Encoded categorical variables using One-Hot Encoder.
+
 Converted target labels using Label Encoder.
+
 Split the dataset into 80% training and 20% testing data.
+
 Applied StandardScaler for feature normalization.
+
 Prepared clean and standardized data for machine learning.
 
 ## Technologies Used
 Python
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Matplotlib
 
 ## Outcome
